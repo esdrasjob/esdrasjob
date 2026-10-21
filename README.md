@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👨🏻‍🎓 I'm Esdras Job, 23y<br>📍 From Itajubá, MG | Living in Passos, MG<br>📚 Studying Computer Engineering | Faculdade Impacta (2/8)</h3>
+<h3 align="left">👨🏻‍🎓 I'm Esdras Job, 26y<br>📍 From Itajubá, MG | Living in Passos, MG<br>📚 Studying Computer Engineering | Faculdade Impacta (5/8)</h3>
 
 ###
 
